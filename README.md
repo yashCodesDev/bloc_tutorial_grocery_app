@@ -21,5 +21,3 @@ Contributions are welcome! If you have ideas, find bugs, or want to contribute, 
 Thanks to the Flutter community for their guidance and resources.
 Special thanks to https://github.com/akmadan
 
-
-![Alt Text](https://imgur.com/a/NB6QLFm)
