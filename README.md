@@ -1,16 +1,23 @@
-# bloc_tutorial
+# Grocery App with Flutter and Bloc
+ Welcome to my first Flutter project – a simple grocery app showcasing Flutter and Bloc state management.
 
-A new Flutter project.
+## Overview
+ This 3-screen grocery app allows users to manage their cart and wishlist, serving as a practical introduction to Flutter and Bloc.
+
+## Features
+1. Bloc State Management: Efficient state handling with Bloc.
+2. Cart & Wishlist: Basic functionality for adding/removing items.
+3. Responsive UI: Demonstrates Flutter's UI capabilities.
 
 ## Getting Started
+1. Clone the Repository: git clone https://github.com/yashCodesDev/bloc_tutorial_grocery_app
+2. Install Dependencies: flutter pub get
+3. Run the App : flutter run
 
-This project is a starting point for a Flutter application.
+## Contribution
+Contributions are welcome! If you have ideas, find bugs, or want to contribute, please open an issue or pull request.
 
-A few resources to get you started if this is your first Flutter project:
+## Acknowledgments
+Thanks to the Flutter community for their guidance and resources.
+Special thanks to https://github.com/akmadan
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
